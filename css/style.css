@@ -1,7 +1,21 @@
 /* Generic */
-body {
+body,
+figure {
     margin: 0;
 }
+
+/* Header */
+header {
+    padding: 24px 0;
+    background-color: #4ea0ff;
+    background-image: url('../img/pattern.png');
+    background-size: 310px;
+}
+
+.logo {
+    width: 200px;
+}
+
 
 /* Utils */
 .container {
