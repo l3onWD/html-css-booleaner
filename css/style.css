@@ -19,6 +19,7 @@ header {
 /* Article Title */
 .title {
     margin-bottom: 4px;
+    font-size: 40px;
 }
 
 /* Article Meta */
