@@ -57,11 +57,11 @@ thead tr {
     font-weight: bold;
 }
 
-tbody tr:nth-child(odd){
+tbody tr.tr-odd{
     background-color: #b1e5f2;
 }
 
-tbody tr td:nth-child(3){
+tbody td.td-description{
     width: 50%;
 }
 
