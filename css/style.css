@@ -23,6 +23,10 @@ header {
 }
 
 /* Article Meta */
+.meta-container {
+    margin-bottom: 12px;
+}
+
 .meta-container p {
     margin: 4px 0;
     color: #808080;
