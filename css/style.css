@@ -4,6 +4,11 @@ figure {
     margin: 0;
 }
 
+ul {
+    padding: 0;
+    list-style-position: inside;
+}
+
 /* Header */
 header {
     padding: 24px 0;
