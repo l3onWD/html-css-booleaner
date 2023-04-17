@@ -65,6 +65,23 @@ tbody tr td:nth-child(3){
     width: 50%;
 }
 
+/* Related articles */
+.related-article {
+    height: 250px;
+    width: 300px;
+    margin-bottom: 16px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#article-pc {
+    background-image: url('../img/monitor.jpg');
+}
+
+#article-graph {
+    background-image: url('../img/graph.jpg');
+}
 
 /* Utils */
 .container {
