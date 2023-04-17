@@ -16,6 +16,26 @@ header {
     width: 200px;
 }
 
+/* Article Title */
+.title {
+    margin-bottom: 4px;
+}
+
+/* Article Meta */
+.meta-container p {
+    margin: 4px 0;
+    color: #808080;
+}
+
+.meta-container .author {
+    color: #4ea0ff;
+    text-decoration: none;
+}
+
+.meta-container .date {
+    font-size: 0.8rem;
+}
+
 
 /* Utils */
 .container {
