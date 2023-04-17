@@ -46,6 +46,25 @@ header {
     font-size: 0.8rem;
 }
 
+/* Table */
+table{
+    border-collapse: collapse;
+}
+
+thead tr {
+    color: #fff;
+    background-color: #4ea0ff;
+    font-weight: bold;
+}
+
+tbody tr:nth-child(odd){
+    background-color: #b1e5f2;
+}
+
+tbody tr td:nth-child(3){
+    width: 50%;
+}
+
 
 /* Utils */
 .container {
