@@ -23,6 +23,7 @@ address {
     font-style: normal;
 }
 
+
 /* Utilities */
 .container {
     max-width: 1080px;
@@ -37,10 +38,6 @@ address {
     color: #808080;
 }
 
-.highlights {
-    background-color: #ffff00;
-}
-
 /* Header */
 #main-header {
     height: 100px;
@@ -53,6 +50,7 @@ address {
     width: 200px;
     margin: 24px 0;
 }
+
 
 /* Article header */
 .article-header {
@@ -79,11 +77,8 @@ tbody td.td-description{
     width: 50%;
 }
 
-/* Related articles */
-#related-articles h2 {
-    color: #808080;
-}
 
+/* Related articles */
 .article-box {
     height: 250px;
     width: 300px;
