@@ -48,7 +48,7 @@ address {
 
 #logo {
     width: 200px;
-    margin: 24px 0;
+    padding: 24px 0;
 }
 
 
@@ -79,7 +79,7 @@ tbody td.td-description{
 
 
 /* Related articles */
-.article-box {
+.related-article-box {
     height: 250px;
     width: 300px;
     margin-bottom: 16px;
@@ -88,10 +88,15 @@ tbody td.td-description{
     background-position: center;
 }
 
-#article-pc {
+#related-article-pc {
     background-image: url('../img/monitor.jpg');
 }
 
-#article-graph {
+#related-article-graph {
     background-image: url('../img/graph.jpg');
+}
+
+.related-article-title {
+    color: #fff;
+    padding: 12px;
 }
